@@ -1,2 +1,3 @@
-# streamlit-excel
-PoC usando streamlit para cargar excel
+# Excel Explorer Pro
+
+Proyecto Streamlit con Docker
